@@ -57,4 +57,4 @@ To view and work on this project locally:
 3. Open in Browser
  - Double-click youtube.html or open it via your preferred browser to explore the UI.
 
-Double-click index.html or open it via your preferred browser to explore the UI.
+

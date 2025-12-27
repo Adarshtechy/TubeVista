@@ -9,11 +9,16 @@ It replicates core layout elements of YouTube’s web UI — including the heade
 
 ## 🚀 Features
 
-✔ Responsive layout mimicking YouTube’s desktop view.
+✔ Responsive layout mimicking YouTube’s desktop view
+
 ✔ Header with logo, navigation toggle, search bar, and user icons
+
 ✔ Sidebar with primary navigation links
+
 ✔ Video thumbnail grid with metadata
+
 ✔ CSS-only UI — no JavaScript required
+
 ✔ Clean and organized project structure for easy customization
 
 ## 🛠️ Technologies Used

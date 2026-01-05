@@ -31,24 +31,18 @@ This project uses the following core web technologies:
 - SVG icons
 
 ## 📁 Project Structure
+```
 TubeVista/  
 ├── youtube.html            # Main HTML document  
-
 ├── styles/  
-
 │   ├── general.css         # Global styles  
-
 │   ├── header.css          # Header UI styles  
-
 │   ├── sidebar.css         # Navigation sidebar styles  
-
 │   └── videos.css          # Video grid styles  
-
 ├── icons/                  # UI SVG icons  
-
 ├── thumbnails/             # Video thumbnail images  
-
-└── channel-pictures/       # Channel profile images  
+└── channel-pictures/       # Channel profile images
+```
 
 ## 📥 Getting Started
 

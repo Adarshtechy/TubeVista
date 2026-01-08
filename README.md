@@ -1,10 +1,10 @@
-## 🎬 TubeVista – YouTube UI Clone
+## 🎬 YouTubeUIClone
 
 A responsive, pixel-perfect imitation of the YouTube desktop interface built with HTML5 and CSS3 — ideal for frontend practice and portfolio showcases.
 
 ## 🧩 Overview
 
-TubeVista is a visual clone of the YouTube user interface, developed using semantic HTML and modern CSS techniques like Flexbox and CSS Grid.
+This is a visual clone of the YouTube user interface, developed using semantic HTML and modern CSS techniques like Flexbox and CSS Grid.
 It replicates core layout elements of YouTube’s web UI — including the header, sidebar, and video grid — while remaining fully responsive and visually appealing.
 
 ## 🚀 Features
@@ -32,7 +32,7 @@ This project uses the following core web technologies:
 
 ## 📁 Project Structure
 ```
-TubeVista/  
+YouTubeUIClone/  
 ├── youtube.html            # Main HTML document  
 ├── styles/  
 │   ├── general.css         # Global styles  
@@ -50,9 +50,9 @@ To view and work on this project locally:
 
 1. Clone the repository
    ```bash
-    git clone https://github.com/Adarshtechy/TubeVista.git
+    git clone https://github.com/Adarshtechy/YouTubeUIClone.git
    ```
-2. cd TubeVista
+2. cd YouTubeUIClone 
 3. Open in Browser
  - Double-click youtube.html or open it via your preferred browser to explore the UI.
 
